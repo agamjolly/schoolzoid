@@ -8,9 +8,10 @@ I am going to cut to the chase and teach you relevant bits only. Once Git is ini
 
 Use the following commands to get started with everything.
 
-Clone the repository using the following command - 
+Clone the repository into whatever directory you like using the following command - 
 
 ```bash
+cd Desktop # or some other destination
 git clone https://www.agamjolly.com/schoolzoid.git
 ```
 When more than one person is working in the project and making changes, work is done by using branches. A branch is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches. The main branch — the one where all changes eventually get merged back into, and is called master. This is the official working version of your project, and the one you see when you visit the project repository at github.com/yourname/projectname.
