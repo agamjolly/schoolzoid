@@ -1,4 +1,4 @@
-# Getting started with Git
+# Getting Started with Git
 
 I am going to cut to the chase and teach you relevant bits only. Once Git is initialised in a directory, all files in the directory start getting tracked for changes. Whenever you make a relevant change, you push it to your branch in this remote repository (that is hosted on GitHub) and I approve it and it gets merged into the master (main) branch, which is where the best iteration of the software is.  
 
