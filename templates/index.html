@@ -1,10 +1,23 @@
-<html>
-    <body>
-    
-        {% for i in cars %}
-        <h1>{{ i }} likes {{ cars[i] }}.</h1>
-        {% endfor %}
-        
-        <!-- Jinja2 -->
-    </body>
-</html>
+{% extends "layout.html" %}
+
+{% block logintop %}
+
+<li class="nav-item">
+    <a href="login"><button type="button" class="btn btn-outline-primary" type="submit">Login</button></a>
+  </li>
+
+{% endblock %}
+
+{% block content %}
+
+<div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h1 class="mt-5">Hello world</h1>
+        <p class="lead">Placeholder text for the homepage.</p>
+        <a href="login"><button type="button" class="btn btn-primary">Click here to get started</button></a>
+      </div>
+    </div>
+  </div>
+
+{% endblock %}
