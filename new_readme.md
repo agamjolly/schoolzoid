@@ -1,3 +1,3 @@
 # SchoolZoid
 
-Making some changes here and there
+Making some changes here and there. 
