@@ -1,0 +1,4 @@
+How to install packages the hard way - 
+
+pip3 install flask_login --target=/Users/agamjolly/Desktop/projects/schoolzoid/lib/python3.7/site-packages/
+
