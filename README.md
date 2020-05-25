@@ -1,4 +1,4 @@
-# SchoolZoid
+# 📚SchoolZoid
 SchoolZoid is a Flask/LAMP app that allows schools to streamline homework submission pipelines for students and instructors. 
 
 
